@@ -1,4 +1,4 @@
-publish_suscribe
+publish suscribe
 ================
 
-Puslisher and Suscriber with RabbitMQ and PHP
+Publisher and Suscriber with RabbitMQ and PHP

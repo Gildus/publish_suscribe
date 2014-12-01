@@ -15,6 +15,7 @@ use PhpAmqpLib\Message\AMQPMessage;
  * By the correct URL
  * 
  */
+
 $url = parse_url('amqp://User:Password@Server/Vhost');
 
 

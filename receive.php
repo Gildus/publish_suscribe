@@ -13,6 +13,7 @@ use PhpAmqpLib\Connection\AMQPConnection;
  * By the correct URL
  * 
  */
+
 $url = parse_url('amqp://User:Password@Server/Vhost');
 $queue = 'basic_get_queue';
 
